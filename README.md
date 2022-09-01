@@ -1,3 +1,5 @@
 # Pemrograman Berorientasi Objek
-# Semester 3
+
+Nama  : Diana Adilla Lubis
+NIM : M0521018
 
