@@ -1,5 +1,5 @@
 # Pemrograman Berorientasi Objek
 
-Nama  : Diana Adilla Lubis
-NIM : M0521018
+- Nama  : Diana Adilla Lubis
+- NIM   : M0521018
 
